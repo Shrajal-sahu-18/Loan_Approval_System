@@ -113,8 +113,8 @@ Open `main_model.ipynb` in Jupyter Notebook and run all cells. This will generat
 - `feature_columns.pkl`
 
 ---
-## Teacher
-- Shradha Khapra maa'm (Apna Collage)
+## 👩‍🏫 Teacher
+**Shradha Khapra Maam**
   
 ## 👤 Author
 **Shrajal**
