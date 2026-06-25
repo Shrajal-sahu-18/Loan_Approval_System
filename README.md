@@ -115,8 +115,8 @@ Open `main_model.ipynb` in Jupyter Notebook and run all cells. This will generat
 ---
 ## Teacher
 - Shradha Khapra maa'm (Apna Collage)
+  
 ## 👤 Author
-
 **Shrajal**
 - 🌐 [Live App](https://loan-approval-system-shrajal.streamlit.app/)
 - Built with ❤️ using Python & Streamlit
