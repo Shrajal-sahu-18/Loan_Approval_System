@@ -47,6 +47,7 @@ credit-wise-loan/
 ├── model.pkl               # Trained model
 ├── scaler.pkl              # StandardScaler
 ├── feature_columns.pkl     # Feature column names
+├── requirements.txt        # Require library
 └── README.md
 ```
 
