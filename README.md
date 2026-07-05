@@ -114,7 +114,7 @@ Open `main_model.ipynb` in Jupyter Notebook and run all cells. This will generat
 
 ---
 ## 👩‍🏫 Teacher
-**Shradha Khapra Maam**
+**Shradha Khapra Maam(Apna Collage)**
   
 ## 👤 Author
 **Shrajal**
