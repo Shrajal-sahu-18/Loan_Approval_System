@@ -149,7 +149,7 @@ if st.button("Predict Loan Approval"):
     predict = model.predict(scaled_data)
 
 
-    if predict[0] == 1: # [0] ka mtlb array ka first element preidct return karta hai array[0] array[1] to uske 0 index ki value print karta hai 
+    if predict[0] == 1:
         st.success("✅ Loan Approved")
     else:
         st.error("❌ Loan Rejected")
